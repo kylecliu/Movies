@@ -76,6 +76,10 @@ h1 {
   cursor: pointer;
 }
 
+.search:hover {
+  filter: drop-shadow(0 0 3em blue);
+}
+
 
 .empty {
   width: 100%;
